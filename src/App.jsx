@@ -16,6 +16,7 @@ function App() {
     <>
       <div className="w-96 mx-auto shadow-lg border border-gray-600 p-3 mt-4 rounded-lg">
         {/* ==================================== */}
+        <h1>Digital Tasbeeh</h1>
         <p className="text-5xl font-bold p-2 text-red-700 text-center">
           {count}
         </p>
